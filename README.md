@@ -1,4 +1,5 @@
 🍫 Chocolate Sales Performance Dashboard
+
 📌 Project Overview
 The Chocolate Sales Performance Dashboard provides an overview of shipment sales, product box volumes, geographic performance, monthly sales trends, and order-status distribution. It is designed to help users explore sales performance and monitor key shipment metrics.
 🎯 Project Objectives
